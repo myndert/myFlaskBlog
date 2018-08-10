@@ -1,5 +1,8 @@
 # myFlaskBlog
-this is a app created with python flash backend with bootstrap blog template
+This is a app created with python flash backend with bootstrap blog template
+- python flask
+- SQLAlchemy
+- mySQL
 
 # Installation
 To use this program, your computer needs:
