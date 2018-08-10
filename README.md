@@ -1,5 +1,5 @@
 # myFlaskBlog
-This is a app created with python flash backend with bootstrap blog template
+This is a app created with python flask backend with bootstrap blog template
 - python flask
 - SQLAlchemy
 - mySQL
